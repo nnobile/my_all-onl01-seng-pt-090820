@@ -1,5 +1,3 @@
-require 'pry'
-
 def my_all?(collection)
   counter = 0
   block_return_values = []
